@@ -8,7 +8,7 @@ Data comes from the [U.S. Department of Education College Scorecard](https://col
 
 ## Repository Structure
 
-- `notebooks/` - Jupyter notebook with complete analysis
+- `script/` - .py script with complete analysis
 - `figures/` - All visualizations used in paper
 - `write-up/` - LaTeX source and PDF
 - `data/` - Instructions for downloading data (file too large to include)
