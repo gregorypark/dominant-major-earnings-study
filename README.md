@@ -24,10 +24,6 @@ Data comes from the [U.S. Department of Education College Scorecard](https://col
 - **Python**: pandas, numpy, plotnine, matplotlib
 - **LaTeX**
 
-## AI Disclosure
-
-I used AI assistance for brainstorming research topics, structuring the project, finding data sources, debugging code, and learning LaTeX syntax. All analysis is my original work. 
-
 ## Author
 
 Gregory Park  
